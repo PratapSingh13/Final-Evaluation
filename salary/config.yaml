@@ -1,0 +1,9 @@
+---
+elasticsearch:
+  enabled: true
+  host: http://10.0.1.239:9200
+  username: elastic
+  password: 
+
+salary:
+  api_port: "8082"
